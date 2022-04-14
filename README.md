@@ -8,7 +8,7 @@ maven-repository
     <repositories>
         <repository>
             <id>maven-repository-main</id>
-            <url>https://raw.github.com/1030907690/maven-repository/master/</url>
+            <url>https://raw.github.com/1030907690/maven-repository/main/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
